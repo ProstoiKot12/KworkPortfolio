@@ -4,7 +4,7 @@ import config
 from aiogram.types import ReplyKeyboardRemove, \
     ReplyKeyboardMarkup, KeyboardButton, \
     InlineKeyboardMarkup, InlineKeyboardButton
-TOKEN = '5903617946:AAEVWU6RnvIt2SEtc-19aQdfZlGhzoSlNAg'
+TOKEN = 'token'
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
