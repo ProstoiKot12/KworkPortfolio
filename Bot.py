@@ -4,8 +4,8 @@ import config
 from aiogram.types import ReplyKeyboardRemove, \
     ReplyKeyboardMarkup
 
-TOKEN = "6152427112:AAGodfSHO-wdE5cBo62UAyueofrBBctlnRY"
-chat_id = "1507699763"
+TOKEN = "Token"
+chat_id = "user"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
